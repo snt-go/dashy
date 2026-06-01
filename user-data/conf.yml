@@ -1,10 +1,18 @@
 ---
 pageInfo:
-  title: El meu Panell d'Inici
-  description: Benvingut al meu espai personalitzat
+  title: enllaços
+  description: panell d'enllaços
 sections:
-  - name: Les meves webs
+  - name: laborals i diaris
     items:
-      - title: Google
-        description: El cercador d'internet
-        url: https://www.google.com
+      - title: gmail
+        description: accés directe gmail
+        url: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S590005637%3A1759941513259529&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AfYwgwUebpKFVP5IVcHqkq8_b9YHcWGy3q0HI780zHnh13LjWPiIYtx9_zFX4Ckkv3bUJXKe-Vuo6A&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+      - title: iEduca
+        description: iEduca Alt Foix
+        url: https://login.ieduca.com/?centre=institutaltfoix&modul=base
+  - name: Xarxes Socials
+    items:
+      - title: YouTube
+        description: Per veure vídeos
+        url: https://www.youtube.com
