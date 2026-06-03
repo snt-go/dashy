@@ -11,6 +11,9 @@ sections:
       - title: iEduca
         description: iEduca Alt Foix
         url: https://login.ieduca.com/?centre=institutaltfoix&modul=base
+      - title: aula virtual santillana
+        description: aula virtual (llibres) Santillana
+        url: https://av.santillana.es/av/login/auth
   - name: Xarxes Socials
     items:
       - title: YouTube
