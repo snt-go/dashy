@@ -14,8 +14,9 @@ sections:
       - title: aula virtual santillana
         description: aula virtual (llibres) Santillana
         url: https://av.santillana.es/av/login/auth
-  - name: Xarxes Socials
+  - name: configurar aquesta pàgina
     items:
-      - title: YouTube
-        description: Per veure vídeos
-        url: https://www.youtube.com
+      - title: conf.yml
+        description: fitxer conf.yml
+        url: https://github.com/snt-go/dashy/edit/master/user-data/conf.yml
+         
