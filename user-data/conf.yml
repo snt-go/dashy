@@ -14,7 +14,7 @@ sections:
       - title: aula virtual santillana
         description: aula virtual (llibres) Santillana
         url: https://av.santillana.es/av/login/auth
-- name: info
+  - name: info
     items:
       - title: horari pau 2026
         description: horari pau 2026
