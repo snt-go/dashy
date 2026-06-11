@@ -1,5 +1,10 @@
 ---
-%aaaaaa
+%- name: 
+%    items:
+%      - title:
+%        description: 
+%        url: 
+
 pageInfo:
   title: enllaços
   description: panell d'enllaços
