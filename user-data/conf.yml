@@ -1,5 +1,5 @@
 ---
-# - name: laborals i diaris
+# - name: 
 #    items:
 #      - title: 
 #        description:
@@ -21,14 +21,28 @@ sections:
       - title: aula virtual santillana
         description: aula virtual (llibres) Santillana
         url: https://av.santillana.es/av/login/auth
+        #      - title: 
+#        description:
+#        url:
   - name: info
     items:
       #- title: horari pau 2026
       #  description: horari pau 2026
-      #  url: https://www.gencat.cat/recercaiuniversitats/accesuniversitat/centres/PAU_2026_horari.pdf       
+      #  url: https://www.gencat.cat/recercaiuniversitats/accesuniversitat/centres/PAU_2026_horari.pdf   
+   - name: Recursos docents
+    items:
+      - title: IA McGraw
+        description: Videos sobre ús IA de McGraw Hill
+        url: https://www.mheducation.es/escolar/ia?utm_source=marketo&utm_medium=email&utm_campaign=ESOBachillerato-Producto-Todas-Webinar-IAParaTodos1&utm_term=lp-home&utm_content=image&mkt_tok=MTI4LVNKVy0zNDcAAAGf8YCD9D02RbiGJH7rvmeMi6B3vm3oRFGiw4oVwsBg_TNeVDRKLorElFkF2lL8RS9FW99Y5-II9rW6ehMngO6r7LNQSaEgv34XQfSnOP9J2NBgR8hJxbNcNA#webinar
+ #      - title: 
+#        description:
+#        url:
+
   - name: configurar aquesta pàgina
     items:
       - title: conf.yml
         description: fitxer conf.yml
         url: https://github.com/snt-go/dashy/edit/master/user-data/conf.yml
+
+
          
