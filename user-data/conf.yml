@@ -29,7 +29,7 @@ sections:
       #- title: horari pau 2026
       #  description: horari pau 2026
       #  url: https://www.gencat.cat/recercaiuniversitats/accesuniversitat/centres/PAU_2026_horari.pdf   
-   - name: Recursos docents
+  - name: Recursos docents
     items:
       - title: IA McGraw
         description: Videos sobre ús IA de McGraw Hill
