@@ -19,9 +19,11 @@ sections:
       - title: iEduca
         description: iEduca Alt Foix
         url: https://login.ieduca.com/?centre=institutaltfoix&modul=base
+        icon: favicon
       - title: aula virtual santillana
         description: aula virtual (llibres) Santillana
         url: https://av.santillana.es/av/login/auth
+        icon: favicon
       - title: lavabos 3t tri
         description: permisos lavabo 3r trimestre i permís sortida 18/06
         url: https://docs.google.com/spreadsheets/d/1vrbNlJagyXr4nZ7Mc22lSGa7hXL51r8PdjtS4vBLOr4/edit?gid=1690062512#gid=1690062512
@@ -39,6 +41,7 @@ sections:
       - title: IA McGraw
         description: Videos sobre ús IA de McGraw Hill
         url: https://www.mheducation.es/escolar/ia?utm_source=marketo&utm_medium=email&utm_campaign=ESOBachillerato-Producto-Todas-Webinar-IAParaTodos1&utm_term=lp-home&utm_content=image&mkt_tok=MTI4LVNKVy0zNDcAAAGf8YCD9D02RbiGJH7rvmeMi6B3vm3oRFGiw4oVwsBg_TNeVDRKLorElFkF2lL8RS9FW99Y5-II9rW6ehMngO6r7LNQSaEgv34XQfSnOP9J2NBgR8hJxbNcNA#webinar
+        icon: favicon
  #      - title: 
 #        description:
 #        url:
@@ -48,6 +51,7 @@ sections:
       - title: conf.yml
         description: fitxer conf.yml
         url: https://github.com/snt-go/dashy/edit/master/user-data/conf.yml
+        icon: favicon
 
 
          
