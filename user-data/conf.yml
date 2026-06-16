@@ -15,7 +15,7 @@ sections:
       - title: gmail
         description: accés directe gmail
         url: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S590005637%3A1759941513259529&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AfYwgwUebpKFVP5IVcHqkq8_b9YHcWGy3q0HI780zHnh13LjWPiIYtx9_zFX4Ckkv3bUJXKe-Vuo6A&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin
-        icon: fa-light fa-envelope
+        icon: favicon
       - title: iEduca
         description: iEduca Alt Foix
         url: https://login.ieduca.com/?centre=institutaltfoix&modul=base
