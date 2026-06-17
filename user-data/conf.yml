@@ -35,6 +35,15 @@ sections:
       - title: Web patrons i tessel·lacions
         description: web a partir d'un llibre sobre patrons i tessel·lacions en diferents cultures
         url: https://sites.google.com/view/patterns-stars-and-rosettes/introduction?authuser=0
+
+  
+  - name: pendents
+    items:
+      - title: videos resolució de problemes
+        description: videos resolució de problemes al supercampus de 3cat. Són vídeos d’uns 5 minuts de durada dirigits a alumnat d’ESO que transformen les matemàtiques en una investigació criminal, en la qual han de resoldre enigmes seguint les pistes que amaguen els nombres. Combinatòria, proporcions, geometria, estadística o àlgebra es converteixen en eines d’investigació.
+        url: https://www.3cat.cat/tv3/sx3/resolucio-de-problemes/videos/
+
+  
   - name: configurar aquesta pàgina
     items:
       - title: conf.yml
