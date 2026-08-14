@@ -14,19 +14,33 @@ sections:
         url: >-
           https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S590005637%3A1759941513259529&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AfYwgwUebpKFVP5IVcHqkq8_b9YHcWGy3q0HI780zHnh13LjWPiIYtx9_zFX4Ckkv3bUJXKe-Vuo6A&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin
         icon: favicon
+        id: 0_1653_gmail
       - title: iEduca
         description: iEduca Alt Foix
         url: https://login.ieduca.com/?centre=institutaltfoix&modul=base
         icon: favicon
+        id: 1_1653_ieduca
       - title: aula virtual santillana
         description: aula virtual (llibres) Santillana
         url: https://av.santillana.es/av/login/auth
         icon: favicon
+        id: 2_1653_aulavirtualsantillana
       - title: ATRI
-        description: pORTAL ATRI    
+        description: pORTAL ATRI
         url: atriportal.gencat.cat
         icon: favicon
-  
+        id: 3_1653_atri
+      - title: INS de l'Alt Foix
+        description: Web de l'Institut
+        icon: favicon
+        url: https://agora.xtec.cat/insaltfoix/
+        target: newtab
+        id: 4_1653_insdelaltfoix
+      - title: Moodle institut
+        icon: favicon
+        url: https://educaciodigital.cat/insaltfoix/moodle/
+        target: newtab
+        id: temp_Moodle institut
   - name: Recursos docents
     items:
       - title: IA McGraw
@@ -34,32 +48,43 @@ sections:
         url: >-
           https://www.mheducation.es/escolar/ia?utm_source=marketo&utm_medium=email&utm_campaign=ESOBachillerato-Producto-Todas-Webinar-IAParaTodos1&utm_term=lp-home&utm_content=image&mkt_tok=MTI4LVNKVy0zNDcAAAGf8YCD9D02RbiGJH7rvmeMi6B3vm3oRFGiw4oVwsBg_TNeVDRKLorElFkF2lL8RS9FW99Y5-II9rW6ehMngO6r7LNQSaEgv34XQfSnOP9J2NBgR8hJxbNcNA#webinar
         icon: favicon
+        id: 0_1638_iamcgraw
       - title: Web patrons i tessel·lacions
-        description: web a partir d'un llibre sobre patrons i tessel·lacions en diferents cultures
-        url: https://sites.google.com/view/patterns-stars-and-rosettes/introduction?authuser=0
+        description: >-
+          web a partir d'un llibre sobre patrons i tessel·lacions en diferents
+          cultures
+        url: >-
+          https://sites.google.com/view/patterns-stars-and-rosettes/introduction?authuser=0
         icon: favicon
-
+        id: 1_1638_webpatronsitessellacions
   - name: assemblea de docents
     items:
       - title: guia i materials CNT
         description: guia i materials útils per a assemblees de la cnt
         url: https://www.cgtensenyament.cat/organitzeu-vos-al-vostre-centre/
         icon: favicon
+        id: 0_1958_guiaimaterialscnt
       - title: assemblees docents
         description: web de l'organització de les assemblees docents
         url: https://assembleesdocents.cat/
         icon: favicon
-        
+        id: 1_1958_assembleesdocents
   - name: pendents
     items:
       - title: videos resolució de problemes
-        description: videos resolució de problemes al supercampus de 3cat. Són vídeos d’uns 5 minuts de durada dirigits a alumnat d’ESO que transformen les matemàtiques en una investigació criminal, en la qual han de resoldre enigmes seguint les pistes que amaguen els nombres. Combinatòria, proporcions, geometria, estadística o àlgebra es converteixen en eines d’investigació.
+        description: >-
+          videos resolució de problemes al supercampus de 3cat. Són vídeos d’uns
+          5 minuts de durada dirigits a alumnat d’ESO que transformen les
+          matemàtiques en una investigació criminal, en la qual han de resoldre
+          enigmes seguint les pistes que amaguen els nombres. Combinatòria,
+          proporcions, geometria, estadística o àlgebra es converteixen en eines
+          d’investigació.
         url: https://www.3cat.cat/tv3/sx3/resolucio-de-problemes/videos/
-
-  
+        id: 0_865_videosresolucideproblemes
   - name: configurar aquesta pàgina
     items:
       - title: conf.yml
         description: fitxer conf.yml
         url: https://github.com/snt-go/dashy/edit/master/user-data/conf.yml
+        id: 0_2643_confyml
 pages: []
