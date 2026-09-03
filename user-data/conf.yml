@@ -81,6 +81,9 @@ sections:
           d’investigació.
         url: https://www.3cat.cat/tv3/sx3/resolucio-de-problemes/videos/
         id: 0_865_videosresolucideproblemes
+      - title: geometrize
+        description: modificar fotos amb geometria
+        url: https://www.samcodes.co.uk/project/geometrize-haxe-web/
   - name: configurar aquesta pàgina
     items:
       - title: conf.yml
