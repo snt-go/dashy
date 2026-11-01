@@ -1,6 +1,6 @@
 appConfig:
-  theme: material
-  layout: horizontal
+  theme: dashy-docs
+  layout: masonry
   iconSize: small
   language: en
 pageInfo:
@@ -57,6 +57,32 @@ sections:
           https://sites.google.com/view/patterns-stars-and-rosettes/introduction?authuser=0
         icon: favicon
         id: 1_1638_webpatronsitessellacions
+      - title: programa argó temes
+        description: document temes TREC programa argó
+        url: https://www.uab.cat/ca/ice/doc/proposta-temes-assessoraments-26-27.pdf
+        id: 2_1638_programaargtemes
+      - title: 'programa argó '
+        description: web programa argó
+        icon: favicon
+        url: https://www.uab.cat/ca/ice/assessorament-treballs-recerca
+        id: 3_1638_programaarg
+      - title: Matemàtiques amb Bogdan
+        icon: favicon
+        url: https://matematiquesambogdan.wordpress.com/
+        id: 4_1638_matemtiquesambbogdan
+      - title: random
+        icon: favicon
+        url: random.org
+        id: 5_1638_random
+      - title: Selecat
+        description: exàmens sencers de selectivitat
+        icon: favicon
+        url: selecat.cat
+        id: 6_1638_selecat
+      - title: exercicis selectivitat
+        description: exercicis de selectivitat
+        url: examenselectivitat.cat
+        id: temp_exercicis selectivitat
   - name: assemblea de docents
     items:
       - title: guia i materials CNT
@@ -85,25 +111,39 @@ sections:
         description: modificar fotos amb geometria
         url: https://www.samcodes.co.uk/project/geometrize-haxe-web/
         id: 1_865_geometrize
+    widgets: []
   - name: configurar aquesta pàgina
     items:
       - title: conf.yml
         description: fitxer conf.yml
         url: https://github.com/snt-go/dashy/edit/master/user-data/conf.yml
         id: 0_2643_confyml
-  - name: Documents drive habituals
+  - name: Documents habituals
     items:
       - title: Reunions seminari
         url: >-
           https://docs.google.com/document/d/1yTf6wUzIo4wmMUo_ZIZ08YXLo0VYyKBd20sYa8GEu80/edit?usp=sharing
         target: newtab
-        id: 0_2505_reunionsseminari
+        id: 0_1935_reunionsseminari
       - title: Temari 1r BATX Mat I
         url: >-
           https://docs.google.com/document/d/1-YWdYlonCSozYQNwtt10sqMI_5sD8a8rmJmeVAQT1p4/edit?usp=sharing
-        id: 1_2505_temarirbatxmati
+        id: 1_1935_temarirbatxmati
       - title: Temari 2n BATX MACS II
         url: >-
           https://docs.google.com/document/d/14xUDI9tJo6qd11RoveIuy_4oupU-yiFv-2zS5sD3QSk/edit?usp=sharing
-        id: temp_Temari 2n BATX MACS II
+        id: 2_1935_temarinbatxmacsii
+      - title: guia TREC
+        description: guia TREC INS de l'Alt Foix
+        url: >-
+          https://educaciodigital.cat/insaltfoix/moodle/pluginfile.php/116665/mod_resource/content/9/Guia%20TREC%202026-28.pdf
+        id: 3_1935_guiatrec
+  - name: xkcd
+    icon: favicon
+    items: []
+    widgets:
+      - type: xkcd-comic
+        options:
+          comic: latest
+        id: 0_426_xkcdcomic
 pages: []
