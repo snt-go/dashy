@@ -70,7 +70,7 @@ sections:
         icon: favicon
         url: https://matematiquesambogdan.wordpress.com/
         id: 4_1638_matemtiquesambbogdan
-      - title: random
+      - title: random.org
         icon: favicon
         url: random.org
         id: 5_1638_random
@@ -82,7 +82,7 @@ sections:
       - title: exercicis selectivitat
         description: exercicis de selectivitat
         url: examenselectivitat.cat
-        id: temp_exercicis selectivitat
+        id: 7_1638_exercicisselectivitat
   - name: assemblea de docents
     items:
       - title: guia i materials CNT
@@ -138,6 +138,11 @@ sections:
         url: >-
           https://educaciodigital.cat/insaltfoix/moodle/pluginfile.php/116665/mod_resource/content/9/Guia%20TREC%202026-28.pdf
         id: 3_1935_guiatrec
+      - title: Tutories
+        icon: font-awesome
+        url: >-
+          https://docs.google.com/document/d/1NERjptIt_RXmxq8ZEltxTN1AGR-Gb784XbkQCxGfBrI/edit?usp=sharing
+        id: 4_1935_tutories
   - name: xkcd
     icon: favicon
     items: []
